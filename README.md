@@ -1,12 +1,12 @@
 <h2 align="center"><img src="./figures/moonstep.png" alt="Moonstep logo" style="height: 1em; vertical-align: middle;"> One Small Step in Latent, One Giant Leap for Pixels:<br>Fast Latent Upscale Adapter for Your Diffusion Models</h2>
 
-<div align="center">
+<div align="center" style="margin-bottom: 1rem;">
 <a href="https://razinaleksandr.github.io/" target="_blank">Aleksandr Razin</a><sup>*</sup> ·
 <a href="https://www.linkedin.com/in/danil-kazancev/" target="_blank">Danil Kazantsev</a><sup>*</sup> ·
 <a href="https://www.linkedin.com/in/iamakarov/" target="_blank">Ilya Makarov</a>
 </div>
 
-<p align="center">
+<p align="center" style="margin-top: 1.25rem;">
 <a href="https://github.com/vaskers5/LUA" target="_blank"><img src="https://img.shields.io/badge/Project-Page-blue" alt="Project Page"></a>
 <a href="https://arxiv.org/abs/2511.10629" target="_blank"><img src="https://img.shields.io/badge/arXiv-PDF-b31b1b" alt="arXiv"></a>
 <a href="https://huggingface.co/papers/2511.10629" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-Paper-orange" alt="HuggingFace Paper"></a>
